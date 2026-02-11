@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ダダ",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-11T16:23:23.323956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ",
+      "artist": "MAISONdes feat. EMA & たなか",
+      "has_synced": true,
+      "path": "select/01_ダンス・ダンス・ダダ_MAISONdes_feat._EMA_&_たなか.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ",
+      "artist": "MAISONdes/EMA/たなか",
+      "has_synced": true,
+      "path": "select/02_ダンス・ダンス・ダダ_MAISONdes_EMA_たなか.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix)",
+      "artist": "MAISONdes feat. EMA, たなか & Misumi",
+      "has_synced": true,
+      "path": "select/03_ダンス・ダンス・ダダ_(Misumi_Remix)_MAISONdes_feat._EMA,_たなか_&_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix)",
+      "artist": "MAISONdes/EMA/たなか/Misumi",
+      "has_synced": true,
+      "path": "select/04_ダンス・ダンス・ダダ_(Misumi_Remix)_MAISONdes_EMA_たなか_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi remix)",
+      "artist": "MAISONdes feat. EMA & たなか",
+      "has_synced": true,
+      "path": "select/05_ダンス・ダンス・ダダ_(Misumi_remix)_MAISONdes_feat._EMA_&_たなか.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/06_ダンス・ダンス・ダダ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_ダンス・ダンス・ダダ_(Misumi_Remix)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ - DANCE DANCE DADA (feat. EMA & TANAKA)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/08_ダンス・ダンス・ダダ_-_DANCE_DANCE_DADA_(feat._EMA_&_TANAKA)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "【103】[feat. EMA, たなか] ダンス・ダンス・ダダ  / MAISONdes",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/09_【103】[feat._EMA,_たなか]_ダンス・ダンス・ダダ___MAISONdes_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダダ",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/10_ダダ_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダダ",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_ダダ_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
